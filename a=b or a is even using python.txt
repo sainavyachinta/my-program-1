@@ -1,0 +1,15 @@
+a=34
+b=34
+if a==b:
+  print('a,b are equal')
+else:
+  print('a,b are not equal')
+
+
+ #program to print given number is even or odd
+
+a=4
+if a%2==0:
+   print('a is even')
+else:
+  print('a is not even")
